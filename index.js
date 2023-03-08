@@ -1,4 +1,4 @@
-var config = require('./config');
+var config = require('./config/config');
 const express = require('express')
 const app = express()
 const port = 3000
